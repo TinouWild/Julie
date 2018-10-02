@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "belinda";
+    src: url("belinda.ttf");
+}
+
+@font-face {
+    font-family: "deadhead";
+    src: url("deadhead.ttf");
+}
+
+.paragraphe{
+    font-family: "belinda";
+}
+
+.paragraphe:hover {
+    font-family: "deadhead";
+}
